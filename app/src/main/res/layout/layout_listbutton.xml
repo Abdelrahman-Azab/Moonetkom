@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <Button
+        android:id="@+id/button_view1"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:text="Bakery"
+        android:textAllCaps="false"
+        android:background="@drawable/editttt"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif"
+        android:textSize="14dp"
+
+        />
+
+</RelativeLayout>
